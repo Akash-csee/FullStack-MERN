@@ -91,7 +91,7 @@ Example:
 
 ### Ques- What is difference website and web application?
 
-### Ques- What is search engine optimisation?
+### Ques- What is search engine optimization?
 
 ### Ques- What is the difference between backend and frontend?
 
