@@ -199,23 +199,7 @@ It is **not a semantic tag** because it was introduced before HTML5.
 - `alt`
 - `title`
 
----
 
-# Task
-
-## Make an Image Gallery
-
-### Categories
-
-1. Cricketers
-2. Politicians
-3. Vegetables
-4. Fruits
-5. Footballers
-6. Actors
-7. Actresses
-
----
 
 # Character Entities
 
@@ -230,4 +214,23 @@ We can simply Google for their codes.
 - ©
 - `<`
 - `>`
+
+
+---
+
+# Task 2
+
+## Make an Image Gallery with following categories.
+
+### Categories
+
+1. Cricketers
+2. Politicians
+3. Vegetables
+4. Fruits
+5. Footballers
+6. Actors
+7. Actresses
+
+---
 
