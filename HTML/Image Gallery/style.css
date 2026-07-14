@@ -26,7 +26,7 @@
     }
             
        
-    footer{
+   footer{
     background-color: burlywood;
     text-align: center;
     padding: 20px;
@@ -34,24 +34,25 @@
     font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
     font-size: 18px;
     color: black;
-}
+   }
 
-footer hr{
+   footer hr{
     border: 1px solid gray;
     margin-bottom: 15px;
-}
+   }
 
-footer p{
-    margin: 8px 0px;
-}
+   footer p{
+    margin: 8px 0;
+   }
 
-footer a{
-    text-decoration: none;
-    color: blue;
+    footer a{
+    color: inherit;          /* Same color as surrounding text */
+    text-decoration: none;   /* No underline */
     font-weight: bold;
-}
+    transition: color 0.3s ease;
+    }
 
-footer a:hover{
-    color: red;
+    footer a:hover{
+    color: #0A66C2;          /* LinkedIn blue on hover */
     text-decoration: underline;
-}
+     }
