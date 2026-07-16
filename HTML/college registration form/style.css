@@ -1,7 +1,45 @@
 body{
-    background-color: antiquewhite;
+    background-color: oldlace;
+    font-family: Arial, sans-serif;
 }
 
 h1,h3{
-    text-align: center;
+    text-align:center;
+}
+
+form{
+    width:75%;
+    margin:auto;
+}
+
+fieldset{
+    padding:20px;
+    margin-bottom:20px;
+}
+
+input[type="text"],
+input[type="number"],
+input[type="email"],
+input[type="date"],
+select{
+    width:280px;
+    height:30px;
+    margin-left:20px;
+}
+
+textarea{
+    width:280px;
+    height:70px;
+    margin-left:20px;
+}
+
+input[type="file"]{
+    margin-left:20px;
+}
+
+input[type="submit"],
+input[type="reset"]{
+    width:180px;
+    height:40px;
+    font-size:16px;
 }
