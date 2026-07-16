@@ -2,34 +2,34 @@
     <head></head>
     <body>
         <h1>Registration Form</h1>
-        <form>
+        <form action="code.php" method="post">
             Enter your name:
-            <input type="text" >
+            <input type="text" name="name" placeholder="Enter your name" >
             <br>
             <br>
              Enter your father's name:
-             <input type="text" name="" id="">
+             <input type="text" name="fname" id="" placeholder="Enter your father's name">
              <br>
              <br>
              Enter Your Mobile no:
-             <input type="number" name="" id="">
+             <input type="number" name="mobile" id="">
              <br>
              <br>
               Enter your Email:
-              <input type="email" name="" id="">
+              <input type="email" name="Email" id="">
               <br>
               <br>
                Enter your Password:
-               <input type="password" name="" id="">
+               <input type="password" name="pass" id="">
                <br>
                <br>
                Select your City:
-               <select name="" id="">
-                <option value="">Karachi</option>
-                <option value="">Islamabad</option>
-                <option value="">Peshawar</option>
-                <option value="">Lahore</option>
-                <option value="">Multan</option>
+               <select name="Cities" id="">
+                <option value="">Select one</option>
+                <option >Islamabad</option>
+                <option >Peshawar</option>
+                <option >Lahore</option>
+                <option >Multan</option>
                </select>
                <br>
                <br>
@@ -41,9 +41,9 @@
                <br>
                <br>
                Select Your Gender 
-               <input type="Radio" name="Gender" id="">Male
-               <input type="radio" name="Gender" id="">Female
-               <input type="Radio" name="Gender" id="">Other
+               <input type="Radio" name="Gender" id="" value="Male">
+               <input type="radio" name="Gender" id="" value="Female">
+               <input type="Radio" name="Gender" id="" value="Other">
 
                <br>
                <br>
