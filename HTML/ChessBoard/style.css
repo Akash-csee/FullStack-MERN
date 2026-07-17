@@ -1,0 +1,413 @@
+#ChessBoard{
+height: 1000;
+width: 1000;
+background-color: black;
+}
+#R1{
+    height: 125;
+    width: 125;
+    background-color: antiquewhite;
+    float: left;
+}
+#R2{
+    height: 125;
+    width: 125;
+    background-color: burlywood;
+    float: left;
+}
+#R3{
+    height: 125;
+    width: 125;
+    background-color: antiquewhite;
+    float: left;
+}
+#R4{
+    height: 125;
+    width: 125;
+    background-color: burlywood;
+    float: left;
+}
+#R5{
+    height: 125;
+    width: 125;
+    background-color: antiquewhite;
+    float: left;
+
+}
+#R6{
+    height: 125;
+    width: 125;
+    background-color: burlywood;
+    float: left;
+}
+#R7{
+    height: 125;
+    width: 125;
+    background-color: antiquewhite;
+    float: left;
+
+}
+#R8{
+    height: 125;
+    width: 125;
+    background-color: burlywood;
+    float: left;
+}
+
+#R9{
+    height: 125;
+    width: 125;
+    background-color: burlywood;
+    float: left;
+}
+#R10{
+    height: 125;
+    width: 125;
+    background-color: antiquewhite;
+    float: left;
+}
+#R11{
+    height: 125;
+    width: 125;
+    background-color: burlywood;
+    float: left;
+}
+#R12{
+    height: 125;
+    width: 125;
+    background-color: antiquewhite;
+    float: left;
+}
+#R13{
+    height: 125;
+    width: 125;
+    background-color: burlywood;
+    float: left;
+
+}
+#R14{
+    height: 125;
+    width: 125;
+    background-color: antiquewhite;
+    float: left;
+}
+#R15{
+    height: 125;
+    width: 125;
+    background-color: burlywood;
+    float: left;
+
+}
+#R16{
+    height: 125;
+    width: 125;
+    background-color: antiquewhite;
+    float: left;
+}
+
+#R17{
+    height: 125;
+    width: 125;
+    background-color: antiquewhite;
+    float: left;
+}
+#R18{
+    height: 125;
+    width: 125;
+    background-color: burlywood;
+    float: left;
+}
+#R19{
+    height: 125;
+    width: 125;
+    background-color: antiquewhite;
+    float: left;
+}
+#R20{
+    height: 125;
+    width: 125;
+    background-color: burlywood;
+    float: left;
+}
+#R21{
+    height: 125;
+    width: 125;
+    background-color: antiquewhite;
+    float: left;
+
+}
+#R22{
+    height: 125;
+    width: 125;
+    background-color: burlywood;
+    float: left;
+}
+#R23{
+    height: 125;
+    width: 125;
+    background-color: antiquewhite;
+    float: left;
+
+}
+#R24{
+    height: 125;
+    width: 125;
+    background-color: burlywood;
+    float: left;
+}
+
+#R25{
+    height: 125;
+    width: 125;
+    background-color: burlywood;
+    float: left;
+}
+#R26{
+    height: 125;
+    width: 125;
+    background-color: antiquewhite;
+    float: left;
+}
+#R27{
+    height: 125;
+    width: 125;
+    background-color: burlywood;
+    float: left;
+}
+#R28{
+    height: 125;
+    width: 125;
+    background-color: antiquewhite;
+    float: left;
+}
+#R29{
+    height: 125;
+    width: 125;
+    background-color: burlywood;
+    float: left;
+
+}
+#R30{
+    height: 125;
+    width: 125;
+    background-color: antiquewhite;
+    float: left;
+}
+#R31{
+    height: 125;
+    width: 125;
+    background-color: burlywood;
+    float: left;
+
+}
+#R32{
+    height: 125;
+    width: 125;
+    background-color: antiquewhite;
+    float: left;
+}
+
+
+#R33{
+    height: 125;
+    width: 125;
+    background-color: antiquewhite;
+    float: left;
+}
+#R34{
+    height: 125;
+    width: 125;
+    background-color: burlywood;
+    float: left;
+}
+#R35{
+    height: 125;
+    width: 125;
+    background-color: antiquewhite;
+    float: left;
+}
+#R36{
+    height: 125;
+    width: 125;
+    background-color: burlywood;
+    float: left;
+}
+#R37{
+    height: 125;
+    width: 125;
+    background-color: antiquewhite;
+    float: left;
+
+}
+#R38{
+    height: 125;
+    width: 125;
+    background-color: burlywood;
+    float: left;
+}
+#R39{
+    height: 125;
+    width: 125;
+    background-color: antiquewhite;
+    float: left;
+
+}
+#R40{
+    height: 125;
+    width: 125;
+    background-color: burlywood;
+    float: left;
+}
+
+#R41{
+    height: 125;
+    width: 125;
+    background-color: burlywood;
+    float: left;
+}
+#R42{
+    height: 125;
+    width: 125;
+    background-color: antiquewhite;
+    float: left;
+}
+#R43{
+    height: 125;
+    width: 125;
+    background-color: burlywood;
+    float: left;
+}
+#R44{
+    height: 125;
+    width: 125;
+    background-color: antiquewhite;
+    float: left;
+}
+#R45{
+    height: 125;
+    width: 125;
+    background-color: burlywood;
+    float: left;
+
+}
+#R46{
+    height: 125;
+    width: 125;
+    background-color: antiquewhite;
+    float: left;
+}
+#R47{
+    height: 125;
+    width: 125;
+    background-color: burlywood;
+    float: left;
+
+}
+#R48{
+    height: 125;
+    width: 125;
+    background-color: antiquewhite;
+    float: left;
+}
+
+#R49{
+    height: 125;
+    width: 125;
+    background-color: antiquewhite;
+    float: left;
+}
+#R50{
+    height: 125;
+    width: 125;
+    background-color: burlywood;
+    float: left;
+}
+#R51{
+    height: 125;
+    width: 125;
+    background-color: antiquewhite;
+    float: left;
+}
+#R52{
+    height: 125;
+    width: 125;
+    background-color: burlywood;
+    float: left;
+}
+#R53{
+    height: 125;
+    width: 125;
+    background-color: antiquewhite;
+    float: left;
+
+}
+#R54{
+    height: 125;
+    width: 125;
+    background-color: burlywood;
+    float: left;
+}
+#R55{
+    height: 125;
+    width: 125;
+    background-color: antiquewhite;
+    float: left;
+
+}
+#R56{
+    height: 125;
+    width: 125;
+    background-color: burlywood;
+    float: left;
+}
+
+#R57{
+    height: 125;
+    width: 125;
+    background-color: burlywood;
+    float: left;
+}
+#R58{
+    height: 125;
+    width: 125;
+    background-color: antiquewhite;
+    float: left;
+}
+#R59{
+    height: 125;
+    width: 125;
+    background-color: burlywood;
+    float: left;
+}
+#R60{
+    height: 125;
+    width: 125;
+    background-color: antiquewhite;
+    float: left;
+}
+#R61{
+    height: 125;
+    width: 125;
+    background-color: burlywood;
+    float: left;
+
+}
+#R62{
+    height: 125;
+    width: 125;
+    background-color: antiquewhite;
+    float: left;
+}
+#R63{
+    height: 125;
+    width: 125;
+    background-color: burlywood;
+    float: left;
+
+}
+#R64{
+    height: 125;
+    width: 125;
+    background-color: antiquewhite;
+    float: left;
+}
