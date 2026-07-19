@@ -3,3 +3,63 @@
     width: 1000;
     background-color: black;
 }
+#R1{
+    height: 250;
+    width: 1000;
+    background-color: green;
+
+}
+#R1B1{
+    height: 250;
+    width: 700;
+    background-color: blue;
+    float: left;
+}
+#R1B2{
+    height: 250;
+    width: 300;
+    background-color: red;
+    float: left;
+}
+
+#R1B1R1{
+    height: 125;
+    width: 700;
+    background-color: antiquewhite;
+}
+
+#R1B1R2{
+    height: 125;
+    width: 700;
+    background-color: rgb(184, 109, 10);
+}
+
+#R2B1{
+    height: 250;
+    width: 300;
+    background-color: red;
+    float: left;
+}
+
+#R2B2{
+     height: 250;
+    width: 700;
+    background-color: blue;
+    float: left;
+
+}
+
+#R2B2R1{
+    height: 125;
+    width: 700;
+    background-color: antiquewhite;
+}
+
+#R2B2R2{
+    height: 125;
+    width: 700;
+    background-color: rgb(184, 109, 10);
+}
+
+
+
