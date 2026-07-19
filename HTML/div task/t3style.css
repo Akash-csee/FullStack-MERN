@@ -1,0 +1,112 @@
+#main{
+    height: 1000px;
+    width: 1000px;
+    background-color: black;
+}
+
+
+
+#R1B1{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    float: left;
+}
+
+#R1B2{
+    height: 200px;
+    width: 300px;
+    background-color: skyblue;
+    float: left;
+}
+
+#R1B3{
+    height: 200px;
+    width: 300px;
+    background-color: aqua;
+    float: left;
+}
+
+#R1B4{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    float: left;
+}
+
+#R2B1{
+    height: 300px;
+    width: 200px;
+    background-color: aqua;
+    float: left;
+}
+
+#R2B2{
+    height: 300px;
+    width: 300;
+    background-color: grey;
+    float: left;
+}
+
+#R2B3{
+    height: 300px;
+    width: 300;
+    background-color: grey;
+    float: left;
+}
+#R2B4{
+    height: 300px;
+    width: 200px;
+    background-color: aqua;
+    float: left;
+}
+
+#R3B1{
+    height: 300px;
+    width: 200px;
+    background-color: skyblue;
+    float: left;
+}
+
+#R3B2{
+    height: 300px;
+    width: 600px;
+    background-color: grey;
+    float: left;
+}
+
+#R3B3{
+    height: 300px;
+    width: 200px;
+    background-color: skyblue;
+    float: left;
+
+} 
+
+#R4B1{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    float: left;
+}
+
+#R4B2{
+    height: 200px;
+    width: 300px;
+    background-color: skyblue;
+    float: left;
+}
+
+#R4B3{
+    height: 200px;
+    width: 300px;
+    background-color: aqua;
+    float: left;
+}
+
+#R4B4{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    float: left;
+}
