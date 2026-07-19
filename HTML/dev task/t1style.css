@@ -13,6 +13,105 @@ background-color: black;
     height: 500;
     width: 500;
     background-color: aqua;
-    float: right;
+    float: left;
 
 }
+#R2B1{
+    height: 500;
+    width: 500;
+    background-color: aqua;
+    float: left;
+
+}
+#R2B2{
+    height: 500;
+    width: 500;
+    background-color: red;
+    float: left;
+
+}
+#R2B2R1B1{
+    height: 250;
+    width: 250;
+    background-color: orangered;
+    float: left;
+
+}
+
+#R2B2R1B2{
+    height: 250;
+    width: 250;
+    background-color: yellow;
+    float: left;
+
+}
+
+#R2B2R2B1{
+    height: 250;
+    width: 250;
+    background-color: yellow;
+    float: left;
+
+}
+
+#R2B2R2B2{
+    height: 250;
+    width: 250;
+    background-color:beige;
+    float:right;
+}
+
+#R2B2R2B2R1{
+    height: 125;
+    width: 250;
+    background-color: green;
+}
+#R2B2R2B2R2{
+    height: 125;
+    width: 250;
+    background-color: brown;
+
+}
+#R2B2R2B2R2Rec1{
+    height: 125;
+    width: 50;
+    background-color: darkmagenta;
+    float: left;
+
+}
+
+#R2B2R2B2R2Rec2{
+    height: 125;
+    width: 50;
+    background-color: blue;
+    float: left;
+
+}
+
+#R2B2R2B2R2Rec3{
+    height: 125;
+    width: 50;
+    background-color: darkmagenta;
+    float: left;
+
+}
+
+#R2B2R2B2R2Rec4{
+    height: 125;
+    width: 50;
+    background-color: blue;
+    float: left;
+
+}
+#R2B2R2B2R2Rec5{
+    height: 125;
+    width: 50;
+    background-color: darkmagenta;
+    float: left;
+
+}
+
+
+
+
+
