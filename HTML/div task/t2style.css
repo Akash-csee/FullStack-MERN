@@ -33,6 +33,11 @@
     width: 700;
     background-color: rgb(184, 109, 10);
 }
+#R2{
+    height:250px;
+    width:1000px;
+    background:green;
+}
 
 #R2B1{
     height: 250;
@@ -60,6 +65,75 @@
     width: 700;
     background-color: rgb(184, 109, 10);
 }
+
+#R3{
+   
+    height: 250;
+    width: 1000;
+    background-color: green;
+}
+#R3B1{
+    height: 250;
+    width: 700;
+    background-color: blue;
+    float: left;
+}
+
+#R3B1R1{
+    height: 125;
+    width: 700;
+    background-color: antiquewhite;
+}
+#R3B1R2{
+    height: 125;
+    width: 700;
+    background-color: rgb(184, 109, 10);
+}
+#R3B2{
+    height: 250;
+    width: 300;
+    background-color: red;
+    float: left;
+}
+
+#R4{
+    height:250px;
+    width:1000px;
+    background:green;
+}
+
+#R4B1{
+    height: 250;
+    width: 300;
+    background-color: red;
+    float: left;
+}
+
+#R4B2{
+     height: 250;
+    width: 700;
+    background-color: blue;
+    float: left;
+
+}
+
+#R4B2R1{
+    height: 125;
+    width: 700;
+    background-color: antiquewhite;
+}
+
+#R4B2R2{
+    height: 125;
+    width: 700;
+    background-color: rgb(184, 109, 10);
+}
+
+
+
+
+
+
 
 
 
