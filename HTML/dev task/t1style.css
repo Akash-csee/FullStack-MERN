@@ -1,0 +1,18 @@
+#main{
+height: 1000;
+width: 1000;
+background-color: black;
+}
+#R1B1{
+    height: 500;
+    width: 500;
+    background-color: blue;
+    float: left;
+}
+#R1B2{
+    height: 500;
+    width: 500;
+    background-color: aqua;
+    float: right;
+
+}
