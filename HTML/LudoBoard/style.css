@@ -1,0 +1,755 @@
+#LudoBox{
+    height: 1000px;
+    width: 1000px;
+    background-color: black;
+    border: 2px solid maroon;
+}
+
+#FirstRow{
+    height: 398.4px;
+    width: 996px;
+    background-color:red;
+}
+
+#SecondRow{
+    height: 199.2px;
+    width: 996px;
+    background-color:white;
+
+}
+
+#ThirdRow{
+    height: 398.4px;
+    width: 996px;
+    background-color:blue;
+}
+
+#FrB1{
+    height: 398.4px;
+    width: 398.4;
+    background-color:red;
+    float: left;
+}
+
+#FrB2{
+    height: 398.4px;
+    width: 199.2px;
+    background-color:white;
+    float: left;
+}
+
+#FrB3{
+    height: 398.4px;
+    width: 398.4px;
+    background-color:yellow;
+    float: left;
+}
+
+#SrB1{
+    height: 199.2px;
+    width: 398.4px;
+    background-color:white;
+    float: left;
+}
+
+#SrB2{
+    height: 199.2px;
+    width: 199.2px;
+    background-color:antiquewhite;
+    float: left;
+}
+
+#SrB3{
+    height: 199.2px;
+    width: 398.4px;
+    background-color:white;
+    float: left;
+}
+
+#TrB1{
+    height: 398.4px;
+    width: 398.4;
+    background-color:blue;
+    float: left;
+}
+
+#TrB2{
+    height: 398.4px;
+    width: 199.2px;
+    background-color:white;
+    float: left;
+}
+
+#TrB3{
+    height: 398.4px;
+    width: 398.4px;
+    background-color:green;
+    float: left;
+}
+
+/* Red Box */
+
+#FrB1B1{
+    height: 398.4px;
+    width: 79.68px;
+    background-color:red;
+    float: left;
+}
+
+#FrB1B2{
+    height: 398.4px;
+    width: 239.04px;
+    background-color:white;
+    float: left;
+}
+
+#FrB1B3{
+    height: 398.4px;
+    width: 79.68px;
+    background-color:red;
+    float: left;
+}
+
+#FrB1B2B1{
+    height: 79.68px;
+    width: 239.04px;
+    background-color: red;
+    
+}
+
+#FrB1B2B2{
+    height: 239.04px;
+    width: 239.04px;
+    background-color: white;
+    
+}
+
+#FrB1B2B3{
+    height: 79.68px;
+    width: 239.04px;
+    background-color: red;
+    
+}
+
+/* yellow box */
+
+#FrB3B1{
+    height: 398.4px;
+    width: 79.68px;
+    background-color:yellow;
+    float: left;
+}
+
+#FrB3B2{
+    height: 398.4px;
+    width: 239.04px;
+    background-color:pink;
+    float: left;
+}
+
+#FrB3B3{
+    height: 398.4px;
+    width: 79.68px;
+    background-color:yellow;
+    float: left;
+}
+
+#FrB3B2B1{
+    height: 79.68px;
+    width: 239.04px;
+    background-color: yellow;
+    
+}
+
+#FrB3B2B2{
+    height: 239.04px;
+    width: 239.04px;
+    background-color: white;
+    
+}
+
+#FrB3B2B3{
+    height: 79.68px;
+    width: 239.04px;
+    background-color: yellow;
+    
+}
+
+/* Blue box */
+
+#TrB1B1{
+    height: 398.4px;
+    width: 79.68px;
+    background-color:blue;
+    float: left;
+}
+
+#TrB1B2{
+    height: 398.4px;
+    width: 239.04px;
+    background-color:pink;
+    float: left;
+}
+
+#TrB1B3{
+    height: 398.4px;
+    width: 79.68px;
+    background-color:blue;
+    float: left;
+}
+
+#TrB1B2B1{
+    height: 79.68px;
+    width: 239.04px;
+    background-color: blue;
+    
+}
+
+#TrB1B2B2{
+    height: 239.04px;
+    width: 239.04px;
+    background-color: white;
+    
+}
+
+#TrB1B2B3{
+    height: 79.68px;
+    width: 239.04px;
+    background-color: blue;
+    
+}
+
+/* Green Box */
+
+#TrB3B1{
+    height: 398.4px;
+    width: 79.68px;
+    background-color:green;
+    float: left;
+}
+
+#TrB3B2{
+    height: 398.4px;
+    width: 239.04px;
+    background-color:pink;
+    float: left;
+}
+
+#TrB3B3{
+    height: 398.4px;
+    width: 79.68px;
+    background-color:green;
+    float: left;
+}
+
+#TrB3B2B1{
+    height: 79.68px;
+    width: 239.04px;
+    background-color: green;
+    
+}
+
+#TrB3B2B2{
+    height: 239.04px;
+    width: 239.04px;
+    background-color: white;
+    
+}
+
+#TrB3B2B3{
+    height: 79.68px;
+    width: 239.04px;
+    background-color: green;
+    
+}
+/* Blue Box inner */
+#TrB1B2B2R1{
+    height: 25px;
+    width: 239.04px;
+    background-color: white;
+    
+}
+
+
+#TrB1B2B2R2{
+    height: 189.04px;
+    width: 239.04px;
+    background-color: white
+    ;
+    
+}
+
+#TrB1B2B2R3{
+    height: 25px;
+    width: 239.04px;
+    background-color: white;
+    
+}
+
+#TrB1B2B2R2R1{
+    height: 63.1px;
+    width: 239.04px;
+    background-color: white;
+    
+}
+
+#TrB1B2B2R2R2{
+    height: 63.1px;
+    width: 239.04px;
+    background-color: white;
+    
+}
+
+#TrB1B2B2R2R3{
+    height: 63.1px;
+    width: 239.04px;
+    background-color: white;
+    
+}
+
+#TrB1B2B2R2R1C1{
+    height: 63.01px;
+    width: 47.808px;
+    background-color: white;
+    float: left;
+}
+
+#TrB1B2B2R2R1C2{
+    height: 63.01px;
+    width: 47.808px;
+    background-color: blue;
+    float: left;
+}
+
+#TrB1B2B2R2R1C3{
+    height: 63.01px;
+    width: 47.808px;
+    background-color: white;
+    float: left;
+}
+
+#TrB1B2B2R2R1C4{
+    height: 63.01px;
+    width: 47.808px;
+    background-color: blue;
+    float: left;
+}
+
+#TrB1B2B2R2R1C5{
+    height: 63.01px;
+    width: 47.808px;
+    background-color: white;
+    float: left;
+}
+
+/* ------ */
+
+#TrB1B2B2R2R3C1{
+    height: 63.01px;
+    width: 47.808px;
+    background-color: white;
+    float: left;
+}
+
+#TrB1B2B2R2R3C2{
+    height: 63.01px;
+    width: 47.808px;
+    background-color: blue;
+    float: left;
+}
+
+#TrB1B2B2R2R3C3{
+    height: 63.01px;
+    width: 47.808px;
+    background-color: white;
+    float: left;
+}
+
+#TrB1B2B2R2R3C4{
+    height: 63.01px;
+    width: 47.808px;
+    background-color: blue;
+    float: left;
+}
+
+#TrB1B2B2R2R3C5{
+    height: 63.01px;
+    width: 47.808px;
+    background-color: white;
+    float: left;
+}
+
+/* Green Box Inner */
+
+#TrB3B2B2R1{
+    height: 25px;
+    width: 239.04px;
+    background-color: white;
+    
+}
+
+
+#TrB3B2B2R2{
+    height: 189.04px;
+    width: 239.04px;
+    background-color: white
+    ;
+    
+}
+
+#TrB3B2B2R3{
+    height: 25px;
+    width: 239.04px;
+    background-color: white;
+    
+}
+
+#TrB3B2B2R2R1{
+    height: 63.1px;
+    width: 239.04px;
+    background-color: white;
+    
+}
+
+#TrB3B2B2R2R2{
+    height: 63.1px;
+    width: 239.04px;
+    background-color: white;
+    
+}
+
+#TrB3B2B2R2R3{
+    height: 63.1px;
+    width: 239.04px;
+    background-color: white;
+    
+}
+
+#TrB3B2B2R2R1C1{
+    height: 63.01px;
+    width: 47.808px;
+    background-color: white;
+    float: left;
+}
+
+#TrB3B2B2R2R1C2{
+    height: 63.01px;
+    width: 47.808px;
+    background-color: green;
+    float: left;
+}
+
+#TrB3B2B2R2R1C3{
+    height: 63.01px;
+    width: 47.808px;
+    background-color: white;
+    float: left;
+}
+
+#TrB3B2B2R2R1C4{
+    height: 63.01px;
+    width: 47.808px;
+    background-color: green;
+    float: left;
+}
+
+#TrB3B2B2R2R1C5{
+    height: 63.01px;
+    width: 47.808px;
+    background-color: white;
+    float: left;
+}
+
+/* ------ */
+
+#TrB3B2B2R2R3C1{
+    height: 63.01px;
+    width: 47.808px;
+    background-color: white;
+    float: left;
+}
+
+#TrB3B2B2R2R3C2{
+    height: 63.01px;
+    width: 47.808px;
+    background-color: green;
+    float: left;
+}
+
+#TrB3B2B2R2R3C3{
+    height: 63.01px;
+    width: 47.808px;
+    background-color: white;
+    float: left;
+}
+
+#TrB3B2B2R2R3C4{
+    height: 63.01px;
+    width: 47.808px;
+    background-color: green;
+    float: left;
+}
+
+#TrB3B2B2R2R3C5{
+    height: 63.01px;
+    width: 47.808px;
+    background-color: white;
+    float: left;
+}
+
+/* Red Box Inner */
+
+#FrB1B2B2R1{
+    height: 25px;
+    width: 239.04px;
+    background-color: white;
+    
+}
+
+
+#FrB1B2B2R2{
+    height: 189.04px;
+    width: 239.04px;
+    background-color: white
+    ;
+    
+}
+
+#FrB1B2B2R3{
+    height: 25px;
+    width: 239.04px;
+    background-color: white;
+    
+}
+
+#FrB1B2B2R2R1{
+    height: 63.1px;
+    width: 239.04px;
+    background-color: white;
+    
+}
+
+#FrB1B2B2R2R2{
+    height: 63.1px;
+    width: 239.04px;
+    background-color: white;
+    
+}
+
+#FrB1B2B2R2R3{
+    height: 63.1px;
+    width: 239.04px;
+    background-color: white;
+    
+}
+
+#FrB1B2B2R2R1C1{
+    height: 63.01px;
+    width: 47.808px;
+    background-color: white;
+    float: left;
+}
+
+#FrB1B2B2R2R1C2{
+    height: 63.01px;
+    width: 47.808px;
+    background-color: red;
+    float: left;
+}
+
+#FrB1B2B2R2R1C3{
+    height: 63.01px;
+    width: 47.808px;
+    background-color: white;
+    float: left;
+}
+
+#FrB1B2B2R2R1C4{
+    height: 63.01px;
+    width: 47.808px;
+    background-color: red;
+    float: left;
+}
+
+#FrB1B2B2R2R1C5{
+    height: 63.01px;
+    width: 47.808px;
+    background-color: white;
+    float: left;
+}
+
+/* ------ */
+
+#FrB1B2B2R2R3C1{
+    height: 63.01px;
+    width: 47.808px;
+    background-color: white;
+    float: left;
+}
+
+#FrB1B2B2R2R3C2{
+    height: 63.01px;
+    width: 47.808px;
+    background-color: red;
+    float: left;
+}
+
+#FrB1B2B2R2R3C3{
+    height: 63.01px;
+    width: 47.808px;
+    background-color: white;
+    float: left;
+}
+
+#FrB1B2B2R2R3C4{
+    height: 63.01px;
+    width: 47.808px;
+    background-color: red;
+    float: left;
+}
+
+#FrB1B2B2R2R3C5{
+    height: 63.01px;
+    width: 47.808px;
+    background-color: white;
+    float: left;
+}
+
+/* Yellow Box Inner */
+
+#FrB3B2B2R1{
+    height: 25px;
+    width: 239.04px;
+    background-color: white;
+    
+}
+
+
+#FrB3B2B2R2{
+    height: 189.04px;
+    width: 239.04px;
+    background-color: white
+    ;
+    
+}
+
+#FrB3B2B2R3{
+    height: 25px;
+    width: 239.04px;
+    background-color: white;
+    
+}
+
+#FrB3B2B2R2R1{
+    height: 63.1px;
+    width: 239.04px;
+    background-color: white;
+    
+}
+
+#FrB3B2B2R2R2{
+    height: 63.1px;
+    width: 239.04px;
+    background-color: white;
+    
+}
+
+#FrB3B2B2R2R3{
+    height: 63.1px;
+    width: 239.04px;
+    background-color: white;
+    
+}
+
+#FrB3B2B2R2R1C1{
+    height: 63.01px;
+    width: 47.808px;
+    background-color: white;
+    float: left;
+}
+
+#FrB3B2B2R2R1C2{
+    height: 63.01px;
+    width: 47.808px;
+    background-color: yellow;
+    float: left;
+}
+
+#FrB3B2B2R2R1C3{
+    height: 63.01px;
+    width: 47.808px;
+    background-color: white;
+    float: left;
+}
+
+#FrB3B2B2R2R1C4{
+    height: 63.01px;
+    width: 47.808px;
+    background-color: yellow;
+    float: left;
+}
+
+#FrB3B2B2R2R1C5{
+    height: 63.01px;
+    width: 47.808px;
+    background-color: white;
+    float: left;
+}
+
+/* ------ */
+
+#FrB3B2B2R2R3C1{
+    height: 63.01px;
+    width: 47.808px;
+    background-color: white;
+    float: left;
+}
+
+#FrB3B2B2R2R3C2{
+    height: 63.01px;
+    width: 47.808px;
+    background-color:yellow;
+    float: left;
+}
+
+#FrB3B2B2R2R3C3{
+    height: 63.01px;
+    width: 47.808px;
+    background-color: white;
+    float: left;
+}
+
+#FrB3B2B2R2R3C4{
+    height: 63.01px;
+    width: 47.808px;
+    background-color: yellow;
+    float: left;
+}
+
+#FrB3B2B2R2R3C5{
+    height: 63.01px;
+    width: 47.808px;
+    background-color: white;
+    float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
