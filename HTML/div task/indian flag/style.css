@@ -1,0 +1,186 @@
+#main{
+    height: 1000px;
+    width: 1000px;
+    background-color: antiquewhite;
+    border: 2px solid black;
+    float: left;
+}
+#B1{
+    height:996px;
+    width: 198px;
+    background-color: antiquewhite;
+    float: left;
+}
+
+#flag{
+    height: 996px;
+    width: 600px;
+    background-color: burlywood;
+    border: 2px solid black;
+    float: left;
+    
+
+}
+#B2{
+    height:996px;
+    width: 198px;
+    background-color: antiquewhite;
+    float: left;
+}
+
+#Polecor1{
+    height: 996px;
+    width: 250px;
+    background-color: burlywood;
+    
+    float: left;
+
+}
+
+#Pole{
+    height: 996px;
+    width:15px;
+    background-color: brown;
+     float: left;
+}
+
+#Polecor2{
+    height: 996px;
+    width: 297.5px;
+    background-color: burlywood;
+    
+    float: left;
+
+}
+
+#Upper{
+    height: 800px;
+    width: 600px;
+    background-color: burlywood;
+   
+    float: left;
+}
+
+#Lower{
+    height: 196px;
+    width: 600px;
+    background-color: burlywood;
+   
+    float: left;
+}
+
+#Orange{
+    height: 80px;
+    width: 297.5px;
+    background-color: rgb(255, 72, 0);
+    
+    float: left;
+
+}
+
+#White{
+    height: 80px;
+    width: 297.5px;
+    background-color: white;
+    
+    float: left;
+
+}
+
+#Green{
+    height: 80px;
+    width: 297.5px;
+    background-color: green;
+    
+    float: left;
+
+}
+
+#Row1B1{
+    height: 65.33px;
+    width: 100px;
+    background-color: burlywood;
+    float:left;
+}
+
+#Row1B2{
+    height: 65.33px;
+    width: 320px;
+    background-color: brown;
+    float:left;
+}
+
+#Row1B3{
+    height: 65.33px;
+    width: 180px;
+    background-color: burlywood;
+    float:left;
+}
+
+
+
+#Row1{
+    height: 65.33px;
+    width: 600px;
+    background-color: burlywood;
+   
+    float: left;
+}
+
+#Row2{
+    height: 65.33px;
+    width: 600px;
+    background-color: burlywood;
+   
+    float: left;
+}
+
+#Row3{
+    height: 65.33px;
+    width: 600px;
+    background-color: burlywood;
+   
+    float: left;
+}
+
+#Row2B1{
+    height: 65.33px;
+    width: 85px;
+    background-color: burlywood;
+    float:left;
+}
+
+#Row2B2{
+    height: 65.33px;
+    width: 350px;
+    background-color: brown;
+    float:left;
+}
+
+#Row2B3{
+    height: 65.33px;
+    width: 165px;
+    background-color: burlywood;
+    float:left;
+}
+
+#Row3B1{
+    height: 65.33px;
+    width: 70px;
+    background-color: burlywood;
+    float:left;
+}
+
+#Row3B2{
+    height: 65.33px;
+    width: 380px;
+    background-color: brown;
+    float:left;
+}
+
+#Row3B3{
+    height: 65.33px;
+    width: 150px;
+    background-color: burlywood;
+    float:left;
+}
