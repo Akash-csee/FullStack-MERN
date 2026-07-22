@@ -733,6 +733,550 @@
     float: left;
 }
 
+/* Play Area 2 FrB2 */
+
+#FrB2B1{
+    width:64.4px;
+    height:64.4px;
+    border:1px solid black;
+    float:left;
+}
+
+#FrB2B2{
+    width:64.4px;
+    height:64.4px;
+    border:1px solid black;
+    float:left;
+}
+
+#FrB2B3{
+    width:65.4px;
+    height:64.4px;
+    border:1px solid black;
+    float:left;
+}
+
+#FrB2B4{
+    width:64.4px;
+    height:64.4px;
+    border:1px solid black;
+    float:left;
+}
+
+#FrB2B5{
+    width:64.4px;
+    height:64.4px;
+    background-color: yellow;
+    border:1px solid black;
+    float:left;
+}
+
+#FrB2B6{
+    width:65.4px;
+    height:64.4px;
+    background-color: yellow;
+    border:1px solid black;
+    float:left;
+}
+
+#FrB2B7{
+    width:64.4px;
+    height:64.4px;
+    border:1px solid black;
+    float:left;
+}
+
+#FrB2B8{
+    width:64.4px;
+    height:64.4px;
+    background-color: yellow;
+    border:1px solid black;
+    float:left;
+}
+
+#FrB2B9{
+    width:65.4px;
+    height:64.4px;
+    border:1px solid black;
+    float:left;
+}
+
+#FrB2B10{
+    width:64.4px;
+    height:64.4px;
+    border:1px solid black;
+    float:left;
+}
+
+#FrB2B11{
+    width:64.4px;
+    height:64.4px;
+    background-color: yellow;
+    border:1px solid black;
+    float:left;
+}
+
+#FrB2B12{
+    width:65.4px;
+    height:64.4px;
+    border:1px solid black;
+    float:left;
+}
+
+#FrB2B13{
+    width:64.4px;
+    height:64.4px;
+    border:1px solid black;
+    float:left;
+}
+
+#FrB2B14{
+    width:64.4px;
+    height:64.4px;
+    background-color: yellow;
+    border:1px solid black;
+    float:left;
+}
+
+#FrB2B15{
+    width:65.4px;
+    height:64.4px;
+    border:1px solid black;
+    float:left;
+}
+
+#FrB2B16{
+    width:64.4px;
+    height:68px;
+    border:1px solid black;
+    float:left;
+}
+
+#FrB2B17{
+    width:64.4px;
+    height:68px;
+    background-color: yellow;
+    border:1px solid black;
+    float:left;
+}
+
+#FrB2B18{
+    width:65.4px;
+    height:68px;
+    border:1px solid black;
+    float:left;
+}
+
+/* Play Area1 SrB1 */
+
+#SrB1B1{
+    width:64.4px;
+    height:64.4px;
+    border:1px solid black;
+    float:left;
+}
+
+#SrB1B2{
+    width:64.4px;
+    height:64.4px;
+    background-color: red;
+    border:1px solid black;
+    float:left;
+}
+
+#SrB1B3{
+    width:64.4px;
+    height:64.4px;
+    border:1px solid black;
+    float:left;
+}
+
+#SrB1B4{
+    width:64.4px;
+    height:64.4px;
+    border:1px solid black;
+    float:left;
+}
+
+#SrB1B5{
+    width:64.4px;
+    height:64.4px;
+    border:1px solid black;
+    float:left;
+}
+
+#SrB1B6{
+    width:68px;
+    height:64.4px;
+    border:1px solid black;
+    float:left;
+}
+
+#SrB1B7{
+    width:64.4px;
+    height:64.4px;
+    border:1px solid black;
+    float:left;
+}
+
+#SrB1B8{
+    width:64.4px;
+    height:64.4px;
+    background-color: red;
+    border:1px solid black;
+    float:left;
+}
+
+#SrB1B9{
+    width:64.4px;
+    height:64.4px;
+    background-color: red;
+    border:1px solid black;
+    float:left;
+}
+
+#SrB1B10{
+    width:64.4px;
+    height:64.4px;
+    background-color: red;
+    border:1px solid black;
+    float:left;
+}
+
+#SrB1B11{
+    width:64.4px;
+    height:64.4px;
+    background-color:red;
+    border:1px solid black;
+    float:left;
+}
+
+#SrB1B12{
+    width:68px;
+    height:64.4px;
+    background-color: red;
+    border:1px solid black;
+    float:left;
+}
+
+#SrB1B13{
+    width:64.4px;
+    height:67px;
+    border:1px solid black;
+    float:left;
+}
+
+#SrB1B14{
+    width:64.4px;
+    height:67px;
+    border:1px solid black;
+    float:left;
+}
+
+#SrB1B15{
+    width:64.4px;
+    height:67px;
+    border:1px solid black;
+    float:left;
+}
+
+#SrB1B16{
+    width:64.4px;
+    height:67px;
+    border:1px solid black;
+    float:left;
+}
+
+#SrB1B17{
+    width:64.4px;
+    height:67px;
+    border:1px solid black;
+    float:left;
+}
+
+#SrB1B18{
+    width:68px;
+    height:67px;
+    border:1px solid black;
+    float:left;
+}
+
+/* Play Area3 SrB3 */
+
+#SrB3B1{
+    width:64.4px;
+    height:64.4px;
+    border:1px solid black;
+    float:left;
+}
+
+#SrB3B2{
+    width:64.4px;
+    height:64.4px;
+    border:1px solid black;
+    float:left;
+}
+
+#SrB3B3{
+    width:64.4px;
+    height:64.4px;
+    border:1px solid black;
+    float:left;
+}
+
+#SrB3B4{
+    width:64.4px;
+    height:64.4px;
+    border:1px solid black;
+    float:left;
+}
+
+#SrB3B5{
+    width:64.4px;
+    height:64.4px;
+    border:1px solid black;
+    float:left;
+}
+
+#SrB3B6{
+    width:68px;
+    height:64.4px;
+    border:1px solid black;
+    float:left;
+}
+
+#SrB3B7{
+    width:64.4px;
+    height:64.4px;
+    background-color: green;
+    border:1px solid black;
+    float:left;
+}
+
+#SrB3B8{
+    width:64.4px;
+    height:64.4px;
+    background-color: green;
+    border:1px solid black;
+    float:left;
+}
+
+#SrB3B9{
+    width:64.4px;
+    height:64.4px;
+    background-color: green;
+    border:1px solid black;
+    float:left;
+}
+
+#SrB3B10{
+    width:64.4px;
+    height:64.4px;
+    background-color: green;
+    border:1px solid black;
+    float:left;
+}
+
+#SrB3B11{
+    width:64.4px;
+    height:64.4px;
+    background-color: green;
+    border:1px solid black;
+    float:left;
+}
+
+#SrB3B12{
+    width:68px;
+    height:64.4px;
+    border:1px solid black;
+    float:left;
+}
+
+#SrB3B13{
+    width:64.4px;
+    height:67px;
+    border:1px solid black;
+    float:left;
+}
+
+#SrB3B14{
+    width:64.4px;
+    height:67px;
+    border:1px solid black;
+    float:left;
+}
+
+#SrB3B15{
+    width:64.4px;
+    height:67px;
+    border:1px solid black;
+    float:left;
+}
+
+#SrB3B16{
+    width:64.4px;
+    height:67px;
+    border:1px solid black;
+    float:left;
+}
+
+#SrB3B17{
+    width:64.4px;
+    height:67px;
+    background-color: green;
+    border:1px solid black;
+    float:left;
+}
+
+#SrB3B18{
+    width:68px;
+    height:67px;
+    border:1px solid black;
+    float:left;
+}
+
+/* Play Area4 TrB2 */
+
+#TrB2B1{
+    width:64.4px;
+    height:64.4px;
+    border:1px solid black;
+    float:left;
+}
+
+#TrB2B2{
+    width:64.4px;
+    height:64.4px;
+    background-color: blue;
+    border:1px solid black;
+    float:left;
+}
+
+#TrB2B3{
+    width:66.4px;
+    height:64.4px;
+    border:1px solid black;
+    float:left;
+}
+
+#TrB2B4{
+    width:64.4px;
+    height:64.4px;
+    border:1px solid black;
+    float:left;
+}
+
+#TrB2B5{
+    width:64.4px;
+    height:64.4px;
+    background-color: blue;
+    border:1px solid black;
+    float:left;
+}
+
+#TrB2B6{
+    width:66.4px;
+    height:64.4px;
+    border:1px solid black;
+    float:left;
+}
+
+#TrB2B7{
+    width:64.4px;
+    height:64.4px;
+    border:1px solid black;
+    float:left;
+}
+
+#TrB2B8{
+    width:64.4px;
+    height:64.4px;
+    background-color: blue;
+    border:1px solid black;
+    float:left;
+}
+
+#TrB2B9{
+    width:66.4px;
+    height:64.4px;
+    border:1px solid black;
+    float:left;
+}
+
+#TrB2B10{
+    width:64.4px;
+    height:64.4px;
+    border:1px solid black;
+    float:left;
+}
+
+#TrB2B11{
+    width:64.4px;
+    height:64.4px;
+    background-color: blue;
+    border:1px solid black;
+    float:left;
+}
+
+#TrB2B12{
+    width:66.4px;
+    height:64.4px;
+    border:1px solid black;
+    float:left;
+}
+
+#TrB2B13{
+    width:64.4px;
+    height:64.4px;
+    background-color: blue;
+    border:1px solid black;
+    float:left;
+}
+
+#TrB2B14{
+    width:64.4px;
+    height:64.4px;
+    background-color: blue;
+    border:1px solid black;
+    float:left;
+}
+
+#TrB2B15{
+    width:66.4px;
+    height:64.4px;
+    border:1px solid black;
+    float:left;
+}
+
+#TrB2B16{
+    width:64.4px;
+    height:69px;
+    border:1px solid black;
+    float:left;
+}
+
+#TrB2B17{
+    width:64.4px;
+    height:69px;
+    border:1px solid black;
+    float:left;
+}
+
+#TrB2B18{
+    width:66.4px;
+    height:69px;
+    border:1px solid black;
+    float:left;
+}
+
+/* -------- */
+
+#champ{
+    height: 199.2px;
+    width: 199.2px;
+    align-items: center;
+}
+
 
 
 
