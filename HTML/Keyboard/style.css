@@ -1,0 +1,704 @@
+#keyboard{
+    height: 500px;
+    width: 1000px;
+    border: 3px solid maroon;
+    background-color: white;
+}
+
+#Row1{
+    height: 39.66px;
+    width: 996px;
+    border: 2px solid black;
+    background-color: #535150;
+}
+
+#Row2{
+    height: 79.32px;
+    width: 996px;
+    border: 2px solid black;
+    background-color: #535150;
+}
+
+#Row3{
+    height: 79.32px;
+    width: 996px;
+    border: 2px solid black;
+    background-color: #535150;
+}
+
+#Row4{
+    height: 79.32px;
+    width: 996px;
+    border: 2px solid black;
+    background-color: #535150;
+}
+
+#Row5{
+    height: 79.32px;
+    width: 996px;
+    border: 2px solid black;
+    background-color: #535150;
+}
+
+#Row6{
+    height: 79.32px;
+    width: 996px;
+    border: 2px solid black;
+    background-color: #535150;
+}
+
+#name{
+    height: 63.74px;
+    width: 996px;
+    border: 1.5x solid black;
+}
+
+#name1{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 100000;
+    
+    
+}
+#keyname{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 100000;
+    color: white;
+}
+/* Row One */
+
+#R1K1{
+    height: 39.66px;
+    width:71.54px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R1K2{
+    height: 39.66px;
+    width:71.54px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+
+#R1K3{
+    height: 39.66px;
+    width:71.54px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+
+#R1K4{
+    height: 39.66px;
+    width:71.54px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R1K5{
+    height: 39.66px;
+    width:71.54px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+
+#R1K6{
+    height: 39.66px;
+    width:71.54px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+
+#R1K7{
+    height: 39.66px;
+    width:71.54px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+
+#R1K8{
+    height: 39.66px;
+    width:71.54px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R1K9{
+    height: 39.66px;
+    width:71.54px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+
+#R1K10{
+    height: 39.66px;
+    width:71.54px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+
+#R1K11{
+    height: 39.66px;
+    width:71.54px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+
+#R1K12{
+    height: 39.66px;
+    width:71.54px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+
+#R1K13{
+    height: 39.66px;
+    width:71.54px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R1K14{
+    height: 39.66px;
+    width:30px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+
+/* Row Two */
+
+#R2K1{
+    height: 79.32px;
+    width:69px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R2K2{
+    height: 79.32px;
+    width:69px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R2K3{
+    height: 79.32px;
+    width:69px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R2K4{
+    height: 79.32px;
+    width:69px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R2K5{
+    height: 79.32px;
+    width:69px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R2K6{
+    height: 79.32px;
+    width:69px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R2K7{
+    height: 79.32px;
+    width:69px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R2K8{
+    height: 79.32px;
+    width:69px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R2K9{
+    height: 79.32px;
+    width:69px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R2K10{
+    height: 79.32px;
+    width:69px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R2K11{
+    height: 79.32px;
+    width:69px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R2K12{
+    height: 79.32px;
+    width:69px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R2K13{
+    height: 79.32px;
+    width:69px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+
+#R2K14{
+    height: 79.32px;
+    width:63px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+
+/* Row3 */
+
+#R3K1{
+    height: 79.32px;
+    width:63px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+
+#R3K2{
+    height: 79.32px;
+    width:69px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R3K3{
+    height: 79.32px;
+    width:69px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R3K4{
+    height: 79.32px;
+    width:69px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R3K5{
+    height: 79.32px;
+    width:69px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R3K6{
+    height: 79.32px;
+    width:69px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R3K7{
+    height: 79.32px;
+    width:69px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R3K8{
+    height: 79.32px;
+    width:69px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R3K9{
+    height: 79.32px;
+    width:69px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R3K10{
+    height: 79.32px;
+    width:69px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R3K11{
+    height: 79.32px;
+    width:69px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R3K12{
+    height: 79.32px;
+    width:69px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R3K13{
+    height: 79.32px;
+    width:69px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R3K14{
+    height: 79.32px;
+    width:69px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+
+/* Fourth Row */
+
+#R4K1{
+    height: 79.32px;
+    width:128.8px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R4K2{
+    height: 79.32px;
+    width:64.4px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R4K3{
+    height: 79.32px;
+    width:64.4px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R4K4{
+    height: 79.32px;
+    width:64.4px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R4K5{
+    height: 79.32px;
+    width:64.4px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R4K6{
+    height: 79.32px;
+    width:64.4px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R4K7{
+    height: 79.32px;
+    width:64.4px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R4K8{
+    height: 79.32px;
+    width:64.4px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R4K9{
+    height: 79.32px;
+    width:64.4px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R4K10{
+    height: 79.32px;
+    width:64.4px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R4K11{
+    height: 79.32px;
+    width:64.4px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R4K12{
+    height: 79.32px;
+    width:64.4px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+
+#R4K13{
+    height: 79.32px;
+    width:126px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+
+/* Fifth Row */
+
+#R5K1{
+    height: 79.32px;
+    width:159px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+
+#R5K2{
+    height: 79.32px;
+    width:64.66px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R5K3{
+    height: 79.32px;
+    width:64.66px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R5K4{
+    height: 79.32px;
+    width:64.66px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R5K5{
+    height: 79.32px;
+    width:64.66px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R5K6{
+    height: 79.32px;
+    width:64.66px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R5K7{
+    height: 79.32px;
+    width:64.66px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R5K8{
+    height: 79.32px;
+    width:64.66px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R5K9{
+    height: 79.32px;
+    width:64.66px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R5K10{
+    height: 79.32px;
+    width:64.66px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R5K11{
+    height: 79.32px;
+    width:64.66px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R5K12{
+    height: 79.32px;
+    width:160px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+
+/* Sixth Row */
+
+#R6K1{
+    height: 79.32px;
+    width: 66.712px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R6K2{
+    height: 79.32px;
+    width: 66.712px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R6K3{
+    height: 79.32px;
+    width: 66.712px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R6K4{
+    height: 79.32px;
+    width: 86.72;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+
+#R6K5{
+    height: 79.32px;
+    width: 333.56;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+
+#R6K6{
+    height: 79.32px;
+    width: 86.72;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+
+#R6K7{
+    height: 79.32px;
+    width: 66.712px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R6K8{
+    height: 79.32px;
+    width: 66.712px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R6K9{
+    height: 79.32px;
+    width: 66.712px;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+#R6K10{
+    height: 79.32px;
+    width: 63.5;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+}
+/* arrow keys */
+
+#R6K8B1{
+    height: 36.66px;
+    width: 65;
+    background-color: white;
+    border: 1.5px solid white;
+    float: left;
+
+}
+#R6K8B2{
+    height: 36.66px;
+    width: 65;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+
+}
+
+#R6K10B1{
+    height: 36.66px;
+    width: 63;
+    background-color: white;
+    border: 1.5px solid white;
+    float: left;
+
+}
+#R6K10B2{
+    height: 36.66px;
+    width: 63;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+
+}
+
+#R6K9B1{
+    height: 36.66px;
+    width: 65;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+
+}
+#R6K9B2{
+    height: 36.66px;
+    width: 65;
+    background-color: black;
+    border: 1.5px solid white;
+    float: left;
+
+}
+
+#keyname1{
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    line-height: 36.66px; 
+    margin: 0;
+}
+
+
+
+
