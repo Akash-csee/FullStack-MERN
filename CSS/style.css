@@ -1,0 +1,17 @@
+#A{
+    height: 500px;
+    width: 500px;
+    background-color: red;
+    float: left;
+    border:2px solid black;
+
+}
+
+#main{
+    height: 1000px;
+    width: 1000px;
+    background-color: green;
+    border: 2px solid black;
+    float: left
+
+}
