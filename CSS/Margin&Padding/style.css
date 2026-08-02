@@ -1,0 +1,12 @@
+#outer{
+    height: 1200px;
+    width: 1200px;
+    border: 1px solid black;
+}
+#one,#two,#three{
+    height: 1150px;
+    width: 350px;
+    border: 1px solid red;
+    margin:25px 0px 25px 37.5px;
+    float: left;
+}
