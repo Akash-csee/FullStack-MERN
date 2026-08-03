@@ -1,6 +1,6 @@
 #page{
     width: 700px;
-    height: 1000px;
+    height: 1100px;
     border: 2px solid black;
     margin: 20px auto;
     box-sizing: border-box;
@@ -87,7 +87,7 @@ header{
 }
 #letter{
     height: 100px;
-    width: 232.66px;
+    width: 233.66px;
     background-color: white;
     float:left;
 
@@ -145,7 +145,83 @@ header{
 }
 
 #bluestrip{
-    width: 696;
+    width: 697;
     height: 10px;
     background-color: #4ba6d9;
+}
+
+#body{
+    width:697px;
+    height:830px;
+    border: 1px solid red;
+}
+#leftbody{
+    width: 328.2px;
+    height: 810px;
+    border: 1px solid green;
+    float: left;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-left: 80px
+}
+#mainHeading{
+    width:328.2px;
+    height:60px;
+    /* border:1px solid maroon; */
+    box-sizing:border-box;
+}
+
+#mainHeading h2{
+    margin:0;
+    
+
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:28px;
+    font-weight:900;
+    color:#444;
+
+    line-height:24px;   /* Reduce gap between lines */
+}
+.divider{
+    width: 328.2px;
+    height: 2.5px;
+    background-color: black;
+}
+#article1{
+    width:328.2px;
+    height:260px;
+     border:1px solid blue; 
+}
+
+#articleLeft{
+    width:150px;
+    height:260px;
+    float:left;
+    margin-right:28.2px;
+    border:1px solid red;
+}
+
+#articleRight{
+    width:146px;
+    height:260px;
+    float:left;
+    border:1px solid green;
+}
+#articleLeft p,
+#articleRight p{
+    margin:0;
+    font-family:Georgia, "Times New Roman", serif;
+    font-size:9px;
+    line-height:12px;
+    color:#555;
+    text-align:justify;
+}
+#rightbody{
+    width: 264.2px;
+    height: 810px;
+    border: 1px solid blue;
+    float: left;
+    
+    margin-top: 20px;
+   
 }
