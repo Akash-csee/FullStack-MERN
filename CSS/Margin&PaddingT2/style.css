@@ -1,0 +1,429 @@
+#outer{
+    width: 500px;
+    height: 830px;
+    background-color: white;
+    border: 1px solid black;
+}
+
+#col1{
+    height: 800px;
+    width: 125px;
+    background-color: white;
+    float: left;
+}
+#col2{
+    height: 800px;
+    width: 250px;
+    /* background-color: red; */
+    float: left;
+}
+#col3{
+    height: 800px;
+    width: 125px;
+    background-color: white;
+    float: left;
+}
+
+#head{
+    height: 210.476px;
+    width: 250 px;
+    background-color: burlywood;
+    
+    border-radius: 100%;
+    box-sizing: border-box;
+    border: 3px solid black;
+}
+#forehead{
+    height: 62.1px;
+    width:250px ;
+    /* background-color: antiquewhite; */
+}
+#eyes{
+    height: 69px;
+    width:250px ;
+    /* background-color: antiquewhite; */
+
+}
+#eyesB1{
+    height: 69px;
+    width: 39.062px;
+    float: left;
+}
+#eyesL{
+    height: 30px;
+    width: 39.062px;
+    float: left;
+    background-color: black;
+    border: 1px solid black;
+    box-sizing: border-box;
+    border-radius: 100%;
+
+}
+#eyesB3{
+    height: 69px;
+    width: 39.062px;
+    float: left;
+}
+#nose{
+    height: 69px;
+    width: 15.625px;
+    float: left;
+    background-color: black;
+    border-radius: 15%;
+
+}
+
+#eyesB5{
+    height: 69px;
+    width: 39.062px;
+    float: left;
+}
+#eyesR{
+    height: 30px;
+    width: 39.062px;
+    float: left;
+    background-color: black;
+    border: 1px solid black;
+    box-sizing: border-box;
+    border-radius: 100%;
+
+}
+
+
+#lips{
+    height: 17.25px;
+    width:250px ;
+    /* background-color: antiquewhite; */
+}
+#lipgap{
+    height: 17.25px;
+    width:250px ;
+
+}
+#lipsB1{
+    height: 17.25px;
+    width:83.33 ;
+    /* background-color: antiquewhite; */
+    float: left;
+
+}
+#lipsB2{
+    height: 17.25px;
+    width:83.33 ;
+    background-color: black;
+    float: left;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius:5px ;
+
+}
+
+#chin{
+    height: 62.1px;
+    width:250px ;
+    /* background-color: antiquewhite; */
+}
+
+#neck{
+    height: 75.190px;
+    width:250px ;
+    background-color: white;
+}
+
+#div1{
+    height: 75.190px;
+    width:83.33px ;
+    /* background-color: green; */
+    float: left;
+}
+
+#div2{
+    height: 75.190px;
+    width:83.33px ;
+    background-color: burlywood;
+    border-top:none;
+    border-left: 3px solid black ;
+    border-right: 3px solid black ;
+    float: left; 
+    box-sizing: border-box;
+    border-radius: 10%;
+
+
+}
+#div3{
+    height: 75.190px;
+    width:83.33px ;
+    /* background-color: green; */
+    float: left;
+}
+
+#front{
+    height: 292.714px;
+    width: 250px;
+    border: 3px solid black;
+    background-color: aqua;
+    box-sizing: border-box;
+    border-radius: 10%;
+   
+}
+#FC1{
+    height: 285px;
+    width: 115px;
+    
+    float: left;
+}
+#FC2{
+    height: 285px;
+    width: 20px;
+    /* background-color: red; */
+    float: left;
+    
+}
+
+#FC2R1{
+    height: 22.8px;
+    width:20px;
+    
+}
+#FC2R2{
+    height: 11.4px;
+    width:20px;
+    background-color: black;
+    border: 1px solid black;
+    box-sizing: border-box;
+    border-radius: 100%;
+    
+}
+
+#FC2R3{
+    height: 45.6px;
+    width:20px;
+    
+}
+
+#FC2R4{
+    height: 11.4px;
+    width:20px;
+    background-color: black;
+    border: 1px solid black;
+    box-sizing: border-box;
+    border-radius: 100%;
+    
+}
+
+#FC2R5{
+    height: 45.6px;
+    width:20px;
+    
+}
+
+#FC2R6{
+    height: 11.4px;
+    width:20px;
+    background-color: black;
+    border: 1px solid black;
+    box-sizing: border-box;
+    border-radius: 100%;
+    
+}
+#FC2R7{
+    height: 45.6px;
+    width:20px;
+    
+}
+
+#FC2R8{
+    height: 11.4px;
+    width:20px;
+    background-color: black;
+    border: 1px solid black;
+    box-sizing: border-box;
+    border-radius: 100%;
+    
+}
+
+#FC2R9{
+    height: 45.6px;
+    width:20px;
+    
+}
+
+#FC2R10{
+    height: 11.4px;
+    width:20px;
+    background-color: black;
+    border: 1px solid black;
+    box-sizing: border-box;
+    border-radius: 100%;
+    
+}
+
+#FC3{
+    height: 285px;
+    width: 109px;
+    /* background-color: black; */
+    float: left;
+}
+
+#FC3C1{
+    height: 285px;
+    width: 14px;
+     /* background-color: black;  */
+    float: left;
+}
+#FC3C2{
+    height: 285px;
+    width: 80px;
+     /* background-color: white;  */
+    float: left;
+}
+#FC3C2B1{
+    height: 60px;
+    width: 80px;
+     /* background-color: red;  */
+    float: left;
+
+}
+#FC3C2B2{
+    height: 20px;
+    width: 80px;
+    
+    float: left;
+    border: 2px solid black ;
+    box-sizing: border-box;
+
+}
+
+#FC3C2B3{
+    height: 60px;
+    width: 80px;
+    
+    float: left;
+    border: 2px solid black ;
+    box-sizing: border-box;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 18px;
+    border-bottom-left-radius: 18px;
+
+}
+#FC3C3{
+    height: 285px;
+    width: 14px;
+     /* background-color: black;  */
+    float: left;
+}
+
+
+
+#legs{
+    height: 197.476px;
+    width: 250px;
+
+}
+
+#LB1{
+    height: 197.476px;
+    width: 50px;
+    /* border: 3px solid black;
+    border-top: none;   
+    border-radius: 10%; */
+    box-sizing: border-box;
+    float: left;
+    
+}
+
+#LB2{
+    height: 197.476px;
+    width: 50px;
+    border: 3px solid black;
+    border-top: none;   
+    border-radius: 10%;
+    box-sizing: border-box;
+    float: left;
+    background-color: blue;
+    
+}
+
+#LB3{
+    height: 197.476px;
+    width: 50px;
+    /* border: 3px solid black;
+    border-top: none;   
+    border-radius: 10%;
+    box-sizing: border-box; */
+    float: left;
+    
+}
+#LB4{
+    height: 197.476px;
+    width: 50px;
+    border: 3px solid black;
+    border-top: none;   
+    border-radius: 10%;
+    box-sizing: border-box;
+    float: left;
+    background-color: blue;
+    
+}
+#LB5{
+    height: 197.476px;
+    width: 50px;
+    /* border: 3px solid black;
+    border-top: none;   
+    border-radius: 10%;
+    box-sizing: border-box; */
+    float: left;
+    
+}
+
+#shoe{
+    height: 51.142px;
+    width: 250px;
+    /* background-color: brown; */
+}
+
+#SB1{
+    height:51.142px;
+    width: 50px;
+    background-color: white;
+    float: left;
+}
+
+#SB2{
+    height:40.142px;
+    width: 75px;
+    background-color: purple;
+    border: 3px solid black;
+    box-sizing: border-box;
+    float: left;
+    border-top-left-radius: 0;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 18px;
+    border-bottom-left-radius: 0;
+
+}
+
+#SB3{
+    height:51.142px;
+    width: 25px;
+    background-color: white;
+    float: left;
+}
+
+#SB4{
+    height:40.142px;
+    width: 75px;
+    background-color: purple;
+    border: 3px solid black;
+    box-sizing: border-box;
+    float: left;
+    border-top-left-radius: 0;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 18px;
+    border-bottom-left-radius: 0;
+
+}
+
+
