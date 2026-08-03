@@ -1,3 +1,151 @@
 #page{
+    width: 700px;
+    height: 1000px;
+    border: 2px solid black;
+    margin: 20px auto;
+    box-sizing: border-box;
+    background-color: white;
 
+}
+
+header{
+    width:698px;
+    height:240px;
+}
+
+#topSpace{
+    width:698px;
+    height:100px;
+     /* border:1px solid red;    */
+}
+#secondtopspace{
+    width: 698px;
+    height: 20px;
+    /* border: 1px solid green; */
+    
+}
+#secspaceb1{
+    width: 231.66px;
+    height: 20px;
+    /* border:1px solid red; */
+    float: left;
+
+}
+#secspaceb2{
+    width: 231.66px;
+    height: 20px;
+    /* border:1px solid red; */
+    float: left;
+
+}
+#secspaceb3{
+    width: 228.66px;
+    height: 20px;
+    /* border:1px solid red; */
+    float: left;
+
+}
+#secspaceb3 p{
+    margin:0;
+    margin-top:3px;
+
+    text-align:center;
+
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:9px;
+    font-weight:bold;
+    color:#555555;
+
+    letter-spacing:0.5px;
+}
+
+
+#headertop{
+    width: 698px;
+    height: 100px;
+    /* border:1px solid red; */
+}
+
+#news{
+    height: 100px;
+    width: 232.66px;
+    background-color: #4ba6d9;
+    float: left;
+
+}
+#news p{
+    
+    margin: 0;
+    margin-top: 16px;
+    margin-left: 75px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 48px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    color: black;
+}
+#letter{
+    height: 100px;
+    width: 232.66px;
+    background-color: white;
+    float:left;
+
+}
+
+#letter p{
+    margin: 0;
+    margin-top: 16px;
+    margin-left: 10px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 48px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    color: #4f4f4f;
+}
+
+#text{
+    height: 100px;
+    width: 230.66px;
+    background-color: #4ba6d9;
+    float: left;
+}
+
+#text p{
+    margin:0;
+    margin-top:10px;
+    margin-left:12px;
+    margin-right:12px;
+
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:12px;
+    font-weight:bold;
+    line-height:18px;
+}
+
+#about{
+    width: 696px;
+    height: 20px;
+    /* border: 1px solid red; */
+}
+#about p{
+    margin:0;
+    margin-top:10px;
+
+    text-align:center;
+
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:9px;
+    font-style:italic;
+    color:#666666;
+    font-weight: bolder;
+    letter-spacing:0.3px;
+}
+
+#bluestrip{
+    width: 696;
+    height: 10px;
+    background-color: #4ba6d9;
 }
