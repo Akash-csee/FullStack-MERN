@@ -1,6 +1,6 @@
 #page{
     width: 700px;
-    height: 1100px;
+    height: 1180px;
     border: 2px solid black;
     margin: 20px auto;
     box-sizing: border-box;
@@ -146,14 +146,14 @@ header{
 
 #bluestrip{
     width: 697;
-    height: 10px;
+    height: 11px;
     background-color: #4ba6d9;
 }
 
 #body{
     width:697px;
     height:830px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 #leftbody{
     width: 328.2px;
@@ -299,13 +299,102 @@ header{
     bottom:0;
 }
 #rightbody{
-    width: 264.2px;
+    width: 268.2px;
     height: 810px;
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
     float: left;
     
     margin-top: 20px;
    
+}
+#topImage{
+    width:269.2px;
+    height:470px;
+    position:relative;
+}
+
+#topImage img{
+    width:100%;
+    height:100%;
+    display:block;
+}
+
+
+
+#bottomStrip{
+    position:absolute;
+    bottom:40px;      /* sits just above the title bar */
+    left:0;
+
+    width:100%;
+    height:8px;
+
+    background:rgba(75,166,217,.45);
+}
+
+#issueHeading{
+    position:absolute;
+    bottom:0;
+    left:0;
+
+    width:100%;
+    height:40px;
+
+    background:rgba(75,166,217,.85);
+}
+
+#issueHeading h2{
+    margin:0;
+    padding:6px 0 0 18px;
+
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:24px;
+    font-weight:bold;
+    color:#fff;
+}
+
+.divider2{
+    width:264.2px;
+    height:7px;
+    /* background-color: red; */
+}
+#issueContent{
+    width:269.2px;
+    height:333px;
+    background:#4ba6d9;
+}
+
+.issue{
+    width:220px;
+    height:45px;
+    margin:0 auto;
+    border-bottom:2px solid rgba(255,255,255,0.45);
+    box-sizing:border-box;
+}
+
+#lastIssue{
+    border-bottom:none;
+}
+
+.dot{
+    width:10px;
+    height:10px;
+    background:white;
+    border-radius:50%;
+    float:left;
+    margin-top:16px;
+}
+
+.issue p{
+    margin:0;
+    margin-left:22px;
+    padding-top:8px;
+
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:11px;
+    color:white;
+    line-height:15px;
+    text-align:left;
 }
 
 
@@ -327,4 +416,23 @@ header{
     background-color:white;
     float: left;
 
+}
+
+footer{
+    width: 700px;
+    height: 80px;
+    /* background-color: black; */
+
+}
+#whitebox{
+    width: 428.8px;
+    height: 80px;
+    float: left;
+    background-color: white;
+}
+#bluebox{
+    width: 268.2px;
+    height: 80px;
+    float: left;
+    background-color: #4ba6d9;
 }
