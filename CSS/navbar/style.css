@@ -1,0 +1,16 @@
+#nav{
+    background-color: burlywood;
+    border: 1px solid burlywood;
+    height: 50px;
+    width: 800px;
+    box-sizing: border-box;
+    margin: 50px auto;
+}
+#nav ul li{
+    display: inline;
+}
+
+#nav ul li a{
+    color: chocolate;
+    text-decoration: none;
+}
