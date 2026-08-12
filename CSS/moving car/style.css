@@ -1,0 +1,36 @@
+.box{
+                height: 100%;
+                width: 100%;
+                
+                
+                background-image:url(./house.png);
+                background-position: center;
+                background-size: cover;
+                background-repeat: no-repeat;
+                
+                
+                
+    }
+
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.box #car {
+    margin-top: 200px;
+    animation: carmove 8s linear infinite;
+}
+
+@keyframes carmove {
+    0% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(calc(100vw - 100%));
+    }
+}
+
+
