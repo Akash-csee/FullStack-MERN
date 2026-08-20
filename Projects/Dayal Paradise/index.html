@@ -4,50 +4,106 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+
+    <title>Dayal Paradise</title>
+
+    <!-- Tailwind CSS -->
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
-    <link href="https://cdn.jsdelivr.net/npm/flowbite@4.0.1/dist/flowbite.min.css" rel="stylesheet" />
+
+    <!-- Flowbite CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/flowbite@4.0.0/dist/flowbite.min.css" rel="stylesheet">
+
+    <!-- Your custom CSS -->
     <link rel="stylesheet" href="./style.css">
-    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.9.0/fonts/remixicon.css" rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 </head>
 
 <body>
-    <!-- --Header starts-- -->
-    <header class="bg-[#22334F] text-[#A4B6D1]">
+    <!-- --Header Starts-- -->
+    <header class="bg-[#1F2E46] w-full  py-3">
+        <div
+            class=" flex flex-row items-center justify-center gap-8 whitespace-nowrap font-['Open_Sans'] text-[#a4b6d1] text-sm font-semibold">
+            <span class=" flex flex-row items-center gap-2 whitespace-nowrap">
+                <svg class="h-5 w-5" fill="currentColor" viewBox="0 0 24 24">
+                    <path
+                        d="M3 5.5C3 4.12 4.12 3 5.5 3h2.1c.7 0 1.32.46 1.53 1.13l.77 2.31a1.6 1.6 0 0 1-.4 1.63L8.15 9.42a12.06 12.06 0 0 0 6.43 6.43l1.35-1.35a1.6 1.6 0 0 1 1.63-.4l2.31.77A1.6 1.6 0 0 1 21 16.4v2.1c0 1.38-1.12 2.5-2.5 2.5C10.49 21 3 13.51 3 5.5Z" />
+                </svg> +91 8795838030</span>
+            <span class=" flex flex-row items-center gap-2 whitespace-nowrap">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
+                    <path fill-rule="evenodd"
+                        d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7Zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5Z"
+                        clip-rule="evenodd">
+                    </path>
+                </svg>Vipul Khand - V, Gomti Nagar, Lucknow</span>
+            <span class=" flex flex-row items-center gap-2 whitespace-nowrap">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
+                    <path
+                        d="M2.5 6.5A2.5 2.5 0 0 1 5 4h14a2.5 2.5 0 0 1 2.5 2.5v11A2.5 2.5 0 0 1 19 20H5a2.5 2.5 0 0 1-2.5-2.5v-11Zm2.5 0L12 12l7-5.5H5Z" />
+                </svg> reservation@dayalparadise.com</span>
 
-    <div class="flex w-full flex-col items-center gap-3 px-4 py-4 md:h-[54px] md:flex-row md:items-center md:gap-0 md:px-24 md:py-0">
+            <button class="bg-[#E8F0FF] text-[#1F2E46] px-5 py-0.5 text-sm font-semibold uppercase tracking-wide ml-30">
+                Book Your Room
 
-        <!-- Phone -->
-        <div class="flex items-center gap-2 whitespace-nowrap text-[13px] leading-[13px] font-semibold">
-            <i class="ri-phone-fill text-[17px]"></i>
-            <span>+91 8795838030</span>
+            </button>
+
         </div>
 
-        <!-- Location -->
-        <div class="flex items-center gap-2 text-center text-[13px] leading-[13px] font-semibold md:ml-7 md:whitespace-nowrap">
-            <i class="ri-map-pin-fill text-[17px]"></i>
-            <span>VIPUL KHAND - V, GOMTI NAGAR, LUCKNOW</span>
-        </div>
 
-        <!-- Email -->
-        <div class="flex items-center gap-2 whitespace-nowrap text-[13px] leading-[13px] font-semibold md:ml-7">
-            <i class="ri-mail-fill text-[17px]"></i>
-            <span>RESERVATION@DAYALPARADISE.COM</span>
-        </div>
-
-        <!-- Button -->
-        <button class="h-[26px] w-[296px] bg-[#F0F4FB] text-[13px] font-semibold text-[#22334F] md:ml-auto md:w-[178px]">
-            BOOK YOUR ROOM
-        </button>
-
-    </div>
-
-</header>
-    <!-- --Header Ends-- -->
-
-    </div>
     </header>
-    <script src="https://cdn.jsdelivr.net/npm/flowbite@4.0.1/dist/flowbite.min.js"></script>
+    <!-- --Header Ends-- -->
+    <!-- --Navbar Starts-- -->
+
+    <nav class="bg-neutral-secondary-soft w-full border-b border-default"></nav>
+    <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-8">
+        <a href="#" class="flex items-center space-x-3 rtl:space-x-reverse">
+            <img src="./images/logo.png" class="h-14" alt="Flowbite Logo" />
+            
+        </a>
+        <!-- <button data-collapse-toggle="navbar-solid" type="button"
+            class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-body rounded-base md:hidden hover:bg-neutral-secondary-soft hover:text-heading focus:outline-none focus:ring-2 focus:ring-neutral-tertiary"
+            aria-controls="navbar-solid" aria-expanded="false">
+            <span class="sr-only">Open main menu</span>
+            <svg class="w-6 h-6" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24"
+                fill="none" viewBox="0 0 24 24">
+                <path stroke="currentColor" stroke-linecap="round" stroke-width="2" d="M5 7h14M5 12h14M5 17h14" />
+            </svg>
+        </button> -->
+        <div class="hidden w-full md:block md:w-auto" id="navbar-solid">
+            <ul
+                class="font-medium flex flex-col p-4 md:p-0 mt-4 border border-default rounded-base bg-neutral-secondary-soft md:flex-row   md:space-x-8 rtl:space-x-reverse md:mt-0 md:border-0 md:bg-neutral-secondary-soft">
+                <li>
+                    <a href="#"
+                         class="block py-2 px-3 text-heading uppercase rounded hover:bg-neutral-tertiary hover:text-[#C4D114] transition-colors duration-500 md:hover:bg-transparent md:border-0 md:hover:text-fg-brand md:p-0 md:dark:hover:bg-transparent">Home</a>
+                </li>
+                <li>
+                    <a href="#"
+                        class="block py-2 px-3 text-heading uppercase rounded hover:bg-neutral-tertiary hover:text-[#C4D114] transition-colors duration-500 md:hover:bg-transparent md:border-0 md:hover:text-fg-brand md:p-0 md:dark:hover:bg-transparent">About</a>
+                </li>
+                <li>
+                    <a href="#"
+                        class="block py-2 px-3 text-heading uppercase rounded hover:bg-neutral-tertiary hover:text-[#C4D114] transition-colors duration-500 md:hover:bg-transparent md:border-0 md:hover:text-fg-brand md:p-0 md:dark:hover:bg-transparent">Services</a>
+                </li>
+                <li>
+                    <a href="#"
+                        class="block py-2 px-3 text-heading uppercase rounded hover:bg-neutral-tertiary hover:text-[#C4D114] transition-colors duration-500 md:hover:bg-transparent md:border-0 md:hover:text-fg-brand md:p-0 md:dark:hover:bg-transparent">Pricing</a>
+                </li>
+                <li>
+                    <a href="#"
+                        class="block py-2 px-3 text-heading uppercase rounded hover:bg-neutral-tertiary hover:text-[#C4D114] transition-colors duration-500 md:hover:bg-transparent md:border-0 md:hover:text-fg-brand md:p-0 md:dark:hover:bg-transparent">Contact</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    </nav>
+
+    <!-- --Navbar Ends-- -->
+
+    <script src="https://cdn.jsdelivr.net/npm/flowbite@4.0.0/dist/flowbite.min.js"></script>
+
+    <!-- Your JavaScript -->
+    <script src="./script.js"></script>
 </body>
 
 </html>
